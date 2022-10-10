@@ -12,6 +12,9 @@ git clone
 git remove
 git skill
 git merge
+jaswanth
+kumar
+reddy
 vamsi
 diwakar
 hero
