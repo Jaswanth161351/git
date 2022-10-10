@@ -6,3 +6,5 @@ git push
 git pull
 git requset
 git repositry
+git clone
+git remove
