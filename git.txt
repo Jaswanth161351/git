@@ -4,3 +4,5 @@ git bash
 git bucket
 git push
 git pull
+git requset
+git repositry
